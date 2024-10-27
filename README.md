@@ -26,7 +26,7 @@
 4. **Analyze** the sequence to compute G-quadruplicata scores.
 5. **Visualize** the scores using an interactive plot.
 6. **Download** a PDF report, the plot as PNG, or all sequences as CSV.
-![G-quadruplicata workflow](MohammadHichamPolo/G-quadruplicata/www/workflow.gif)
+![G-quadruplicata workflow](www/workflow.gif)
 ---
 
 ## Download Previews
@@ -35,7 +35,7 @@
 
 Here’s a preview of the score graph that you can download after analyzing your sequence:
 
-![G-quadruplicata Score Plot](MohammadHichamPolo/G-quadruplicata/G_quadruplicata_plot2024-10-27.png)
+![G-quadruplicata Score Plot](G_quadruplicata_plot2024-10-27.png)
 
 ---
 
@@ -51,7 +51,7 @@ After analysis, you can download a CSV file containing the sequences with their 
 
 *Example rows of the CSV file.*
 
-Download the full CSV [here](MohammadHichamPolo/G-quadruplicata/G_quadruplicata_Scores_2024-10-27.pdf).
+Download the full CSV [here](G_quadruplicata_Scores_2024-10-27.pdf).
 
 ---
 
@@ -59,9 +59,9 @@ Download the full CSV [here](MohammadHichamPolo/G-quadruplicata/G_quadruplicata_
 
 The downloadable PDF report includes the sequence name, G4Hunter score plot, and a detailed table of sequences with their G4Hunter scores. Here’s a preview of the PDF report layout:
 
-![PDF Report Preview](MohammadHichamPolo/G-quadruplicata/GG_quadruplicata_Report_2024-10-27.pdf)
+![PDF Report Preview](GG_quadruplicata_Report_2024-10-27.pdf).
 
-You can download a full PDF report [here](MohammadHichamPolo/G-quadruplicata/GG_quadruplicata_Report_2024-10-27.pdf).
+You can download a full PDF report [here](GG_quadruplicata_Report_2024-10-27.pdf).
 
 ---
 
